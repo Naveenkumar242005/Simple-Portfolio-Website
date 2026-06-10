@@ -11,6 +11,10 @@ A beginner-friendly portfolio website built using HTML5 and CSS.
 - HTML5
 - CSS3
 
+## Live Demo
+View the website here:
+[link]
+
 ## Author
 Naveen Kumar
 Aspiring Full Stack Web Developer
