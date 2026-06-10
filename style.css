@@ -1,0 +1,103 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+* {
+    padding: 0;
+    margin: 0;
+}
+.section{
+    margin:30px;
+}
+
+.section-one {
+    color: white;
+    background-color: black;
+    font-size: 30px;
+    padding: 20px;
+}
+
+.section-one a {
+    text-decoration: none;
+    border-radius: 2px;
+    background-color: orange;
+    color: black;
+    padding-left: 5px;
+    padding-right: 5px;
+    display: inline-block;
+    font-size: large;
+
+}
+.section-one p{
+    font-size: 30px;
+    margin-top:8px;
+    margin-bottom:10px;
+}
+.section-one,.section-two,.section-three,.section-four,.section-five{
+    margin-top:15px;
+}
+.section-five{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    padding-top:30px;
+    padding-bottom: 30px;
+    margin-top: 20px;
+}
+.section-five a{
+    text-decoration: none;
+    color: aqua;
+    
+}
+.section-three li,.section-four li{
+    list-style: none;
+}
+.section-three{
+    background-color: blueviolet;
+    display: inline-block;
+    margin-left: 20px;
+    border-radius: 5px;
+    vertical-align: top;
+    height: 180px;
+    padding: 20px;
+    margin-bottom: 20px;
+
+}
+.section-three__list li{
+    padding:3px;
+}
+.section-four{
+    background-color: orangered;
+    display: inline-block;
+    border-radius: 5px;
+    vertical-align: top;
+    padding: 20px ;
+    height: 180px;
+    margin-bottom: 20px;
+}
+.section-four__list li{
+    padding: 10px;
+}
+.container{
+    margin: 30px;
+}
+.container-form__input,.container-form__button,.container-form__area{
+margin-top: 10px;
+}
+.container-form__input{
+    border: none;
+    border-bottom: solid black 1px;
+    padding: 10px;
+}
+.container-form__area{
+    border: none;
+    border: solid black 1px;
+    padding: 10px;
+}
+.container-form__button{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-color: orange;
+    border: none;
+}
