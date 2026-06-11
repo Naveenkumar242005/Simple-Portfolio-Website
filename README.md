@@ -13,7 +13,7 @@ A beginner-friendly portfolio website built using HTML5 and CSS.
 
 ## Live Demo
 View the website here:
-[link]
+https://naveenkumar242005.github.io/Simple-Portfolio-Website/
 
 ## Author
 Naveen Kumar
